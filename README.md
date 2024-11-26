@@ -19,5 +19,5 @@ git clone https://github.com/prem-project3608/PREM-DEC-TOOL.git
 cd PREM-DEC-TOOL
 ```
 ```bash
-python PREM-PREM-DEC-TOOL.py 
+python PREM-DEC-TOOL.py 
 ```
