@@ -12,7 +12,7 @@
 ![Image](https://i.imgur.com/rZxmABp.png)
 
 ```bash
-git clone https://github.com/prem-project3608/PREM-PROJECT-ENCRYPT-TOOL.git
+git clone https://github.com/prem-project3608/PREM-DEC-TOOL.git
 ```
 
 ```bash
